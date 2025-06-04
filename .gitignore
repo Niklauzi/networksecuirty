@@ -4,6 +4,9 @@ __pycache__/
 *$py.class
 
 logs/
+push_data
+myvenv/
+
 
 # C extensions
 *.so
