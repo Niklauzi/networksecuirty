@@ -7,7 +7,7 @@ logs/
 push_data
 myvenv/
 
-
+test.py
 # C extensions
 *.so
 
